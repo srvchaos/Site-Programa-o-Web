@@ -1,0 +1,150 @@
+.titulo{
+  text-align: center;
+}
+.cacto{
+    text-align: center;
+}
+.novidades{
+    text-align: left;
+    font-style: italic;
+    font-size: 2em;
+}
+.informações{
+
+}
+.imagem1{
+    border: 5px black;
+    text-align: center;
+    
+}
+
+.arranjos{
+    text-align: center;
+}
+.floresarranjo{
+   text-align: center;
+   float: left;
+   margin-left: 400px;
+}
+.floresarranjo2{
+   text-align: center;
+   margin-right: 420px;
+   float: right;
+}
+.floresarranjo3{
+   text-align: center;
+}
+.floresarranjo4{
+   text-align: center;
+   float: left;
+   margin-left: 400px;
+}
+.floresarranjo5{
+   text-align: center;
+   margin-right: 420px;
+   float: right;
+}
+.floresarranjo6{
+   text-align: center;
+}
+.preço1{
+    text-align: center;
+    float: right;
+    margin-right: 490px;
+}
+.preço2{
+    text-align: center;
+    float: left;
+    margin-left: 490px;
+}
+.preço3{
+    text-align: center;
+ }  
+ 
+ 
+ .preço4{
+    text-align: center;
+float: right;
+margin-right: 490px;
+ }
+ .preço5{
+    text-align: center;
+float: left;
+margin-left: 490px;
+
+ }
+ .preço6{
+    text-align: center;
+
+
+ }
+ .cesta{
+    text-align: center;
+ }
+ .café{
+    text-align: center;
+    font-size: 2em;
+    font-style: oblique;
+ }
+ .cestas1{
+   text-align: center;
+   float: left;
+   margin-left: 400px;
+
+ }
+ .cestas2{
+   text-align: center;
+   margin-right: 420px;
+   float: right;
+ }
+ .cestas3{
+   text-align: center;
+    }
+    .cestas4{
+      text-align: center;
+      float: left;
+      margin-left: 400px;
+       }
+       .cestas5{
+         text-align: center;
+         margin-right: 420px;
+         float: right;
+          }
+          .cestas6{
+            text-align: center;
+           
+             }
+ .cartão{
+    text-align: center;
+ }
+ .cartão1{
+    text-align: center;
+    float: left;
+    margin-left: 400px;
+ }
+ .cartão2{
+text-align: center;
+margin-right: 420px;
+float: right;
+ }
+ .cartão3{
+    text-align: center;
+ 
+
+ }
+ .cartão4{
+    text-align: center;
+    float: left;
+    margin-left: 400px;
+ }
+ .cartão5{
+text-align: center;
+margin-right: 420px;
+float: right;
+ }
+ .cartão6{
+    text-align: center;
+ 
+
+ }
+    
